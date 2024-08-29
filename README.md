@@ -11,6 +11,8 @@
 * [superfly/litefs: FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
 * [litements/s3sqlite: Query SQLite files in S3 using s3fs](https://github.com/litements/s3sqlite)
 * [mycelial/mycelite: Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
+* [orbitinghail/sqlsync: SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
+* [vlcn-io/cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 
 ## distribute
 
@@ -45,6 +47,22 @@
 * [fnc12/sqlite\_orm: ❤️ SQLite ORM light header only library for modern C++](https://github.com/fnc12/sqlite_orm)
 * [sqlalchemy/sqlalchemy: The Database Toolkit for Python](https://github.com/sqlalchemy/sqlalchemy)
 
-## podcast
+## internals
 
+* [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/#c4)
+
+## history
+
+* [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
 * [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
+
+## article and podcast
+
+* [SQLite的文艺复兴 · BMPI](https://www.bmpi.dev/dev/renaissance-sqlite/)
+* [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+* [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
+
+## other
+
+* [Introducing a Query Acceleration Path for Analytics in SQLite3](https://www.cidrdb.org/cidr2022/papers/p56-prammer.pdf)
+* 
