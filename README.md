@@ -50,6 +50,7 @@
 ## internals
 
 * [SQLite Internals: How The World's Most Used Database Works](https://www.compileralchemy.com/books/sqlite-internals/#c4)
+* [SQlite源码分析](https://huili.github.io/)
 
 ## history
 
