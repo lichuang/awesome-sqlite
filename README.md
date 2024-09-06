@@ -14,6 +14,7 @@
 * [orbitinghail/sqlsync: SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
 * [vlcn-io/cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 * [zknill/sqledge: Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
+* [aergoio/aergolite: AergoLite: Trustless SQLite Replication](https://github.com/aergoio/aergolite)
 
 ## distribute
 
@@ -68,4 +69,5 @@
 ## other
 
 * [Introducing a Query Acceleration Path for Analytics in SQLite3](https://www.cidrdb.org/cidr2022/papers/p56-prammer.pdf)
-* 
+* [aergoio/litetree: SQLite with Branches](https://github.com/aergoio/litetree)
+* [aergoio/sqlite-stored-procedures: Stored Procedures for SQLite](https://github.com/aergoio/sqlite-stored-procedures)
