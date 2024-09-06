@@ -13,11 +13,13 @@
 * [mycelial/mycelite: Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
 * [orbitinghail/sqlsync: SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.](https://github.com/orbitinghail/sqlsync)
 * [vlcn-io/cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
+* [zknill/sqledge: Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
 
 ## distribute
 
 * [rqlite/rqlite: The lightweight, user-friendly, distributed relational database built on SQLite.](https://github.com/rqlite/rqlite)
 * [canonical/dqlite: Embeddable, replicated and fault-tolerant SQL engine.](https://github.com/canonical/dqlite?tab=readme-ov-file)
+* [jervisfm/resqlite: Replicated Sqlite Database built upon of the RAFT distributed consensus protocol](https://github.com/jervisfm/resqlite)
 
 ## extentions
 
