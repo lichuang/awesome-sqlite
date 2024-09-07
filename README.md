@@ -71,3 +71,5 @@
 * [Introducing a Query Acceleration Path for Analytics in SQLite3](https://www.cidrdb.org/cidr2022/papers/p56-prammer.pdf)
 * [aergoio/litetree: SQLite with Branches](https://github.com/aergoio/litetree)
 * [aergoio/sqlite-stored-procedures: Stored Procedures for SQLite](https://github.com/aergoio/sqlite-stored-procedures)
+* [simonw/datasette: An open source multi-tool for exploring and publishing data](https://github.com/simonw/datasette)
+* [simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
