@@ -73,3 +73,4 @@
 * [aergoio/sqlite-stored-procedures: Stored Procedures for SQLite](https://github.com/aergoio/sqlite-stored-procedures)
 * [simonw/datasette: An open source multi-tool for exploring and publishing data](https://github.com/simonw/datasette)
 * [simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
+* [dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
