@@ -8,6 +8,7 @@
 ## backup and replicate
 
 * [benbjohnson/litestream: Streaming replication for SQLite.](https://github.com/benbjohnson/litestream)
+* [lichuang/replited: Replica SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)](https://github.com/lichuang/replited)
 * [superfly/litefs: FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
 * [litements/s3sqlite: Query SQLite files in S3 using s3fs](https://github.com/litements/s3sqlite)
 * [mycelial/mycelite: Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.](https://github.com/mycelial/mycelite)
