@@ -22,6 +22,7 @@
 * [rqlite/rqlite: The lightweight, user-friendly, distributed relational database built on SQLite.](https://github.com/rqlite/rqlite)
 * [canonical/dqlite: Embeddable, replicated and fault-tolerant SQL engine.](https://github.com/canonical/dqlite?tab=readme-ov-file)
 * [jervisfm/resqlite: Replicated Sqlite Database built upon of the RAFT distributed consensus protocol](https://github.com/jervisfm/resqlite)
+* [sebadob/hiqlite: Hiqlite - highly-available, embeddable, raft-based SQLite + cache](https://github.com/sebadob/hiqlite)
 
 ## extentions
 
@@ -29,6 +30,7 @@
 * [asg017/sqlite-vec: A vector search SQLite extension that runs anywhere!](https://github.com/asg017/sqlite-vec)
 * [asg017/sqlite-vss: A SQLite extension for efficient vector search, based on Faiss!](https://github.com/asg017/sqlite-vss)
 * [backtrace-labs/verneuil: Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.](https://github.com/backtrace-labs/verneuil)
+* [techrah/sqlite3-compression-encryption-vfs: Compression and Encryption Virtual File System for SQLite 3.](https://github.com/techrah/sqlite3-compression-encryption-vfs)
 
 ## GUI
 
