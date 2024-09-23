@@ -52,6 +52,7 @@
 * [rogerbinns/apsw: Another Python SQLite wrapper](https://github.com/rogerbinns/apsw)
 * [fnc12/sqlite\_orm: ❤️ SQLite ORM light header only library for modern C++](https://github.com/fnc12/sqlite_orm)
 * [sqlalchemy/sqlalchemy: The Database Toolkit for Python](https://github.com/sqlalchemy/sqlalchemy)
+* [stephencelis/SQLite.swift: A type-safe, Swift-language layer over SQLite3.](https://github.com/stephencelis/SQLite.swift)
 
 ## internals
 
