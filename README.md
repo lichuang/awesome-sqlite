@@ -31,6 +31,8 @@
 * [asg017/sqlite-vss: A SQLite extension for efficient vector search, based on Faiss!](https://github.com/asg017/sqlite-vss)
 * [backtrace-labs/verneuil: Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.](https://github.com/backtrace-labs/verneuil)
 * [techrah/sqlite3-compression-encryption-vfs: Compression and Encryption Virtual File System for SQLite 3.](https://github.com/techrah/sqlite3-compression-encryption-vfs)
+* [asg017/sqlite-lembed: A SQLite extension for generate text embeddings from GGUF models using llama.cpp](https://github.com/asg017/sqlite-lembed)
+* [asg017/sqlite-rembed: A SQLite extension for generating text embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...)](https://github.com/asg017/sqlite-rembed)
 
 ## GUI
 
@@ -78,3 +80,4 @@
 * [simonw/datasette: An open source multi-tool for exploring and publishing data](https://github.com/simonw/datasette)
 * [simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
 * [dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
+* [asg017/sqlite-ecosystem: An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!](https://github.com/asg017/sqlite-ecosystem)
