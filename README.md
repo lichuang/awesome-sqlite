@@ -16,6 +16,7 @@
 * [vlcn-io/cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
 * [zknill/sqledge: Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
 * [aergoio/aergolite: AergoLite: Trustless SQLite Replication](https://github.com/aergoio/aergolite)
+* [powersync-ja/powersync-sqlite-core: PowerSync SQLite Extension](https://github.com/powersync-ja/powersync-sqlite-core)
 
 ## distribute
 
@@ -33,12 +34,14 @@
 * [techrah/sqlite3-compression-encryption-vfs: Compression and Encryption Virtual File System for SQLite 3.](https://github.com/techrah/sqlite3-compression-encryption-vfs)
 * [asg017/sqlite-lembed: A SQLite extension for generate text embeddings from GGUF models using llama.cpp](https://github.com/asg017/sqlite-lembed)
 * [asg017/sqlite-rembed: A SQLite extension for generating text embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...)](https://github.com/asg017/sqlite-rembed)
+* [phiresky/sqlite-zstd: Transparent dictionary-based row-level compression for SQLite](https://github.com/phiresky/sqlite-zstd)
 
 ## GUI
 
 * [hawkchch/SQLiteExplorer: 一个查看SQLite文件结构的工具软件](https://github.com/hawkchch/SQLiteExplorer)
 * [little-brother/sqlite-gui: Lightweight SQLite editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:](https://github.com/sqlitebrowser/sqlitebrowser)
+* [beekeeper-studio/beekeeper-studio: Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.](https://github.com/beekeeper-studio/beekeeper-studio)
 
 ## encryption and decryption
 
@@ -66,11 +69,13 @@
 * [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
 * [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
 
-## article and podcast
+## article\podcast\video
 
 * [SQLite的文艺复兴 · BMPI](https://www.bmpi.dev/dev/renaissance-sqlite/)
 * [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 * [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
+* [SQLite in the browser with WASM/JS | Hacker News](https://news.ycombinator.com/item?id=33374402)
+* [SQLite: How it works, by Richard Hipp - YouTube](https://www.youtube.com/watch?v=ZSKLA81tBis)
 
 ## other
 
@@ -81,3 +86,4 @@
 * [simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
 * [dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [asg017/sqlite-ecosystem: An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!](https://github.com/asg017/sqlite-ecosystem)
+* [dpapathanasiou/simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
