@@ -17,6 +17,7 @@
 * [zknill/sqledge: Replicate postgres to SQLite on the edge](https://github.com/zknill/sqledge)
 * [aergoio/aergolite: AergoLite: Trustless SQLite Replication](https://github.com/aergoio/aergolite)
 * [powersync-ja/powersync-sqlite-core: PowerSync SQLite Extension](https://github.com/powersync-ja/powersync-sqlite-core)
+* [maxpert/marmot: A distributed SQLite replicator built on top of NATS](https://github.com/maxpert/marmot)
 
 ## distribute
 
@@ -42,6 +43,7 @@
 * [little-brother/sqlite-gui: Lightweight SQLite editor for Windows](https://github.com/little-brother/sqlite-gui)
 * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:](https://github.com/sqlitebrowser/sqlitebrowser)
 * [beekeeper-studio/beekeeper-studio: Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.](https://github.com/beekeeper-studio/beekeeper-studio)
+* [coleifer/sqlite-web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 
 ## encryption and decryption
 
@@ -58,6 +60,7 @@
 * [fnc12/sqlite\_orm: ❤️ SQLite ORM light header only library for modern C++](https://github.com/fnc12/sqlite_orm)
 * [sqlalchemy/sqlalchemy: The Database Toolkit for Python](https://github.com/sqlalchemy/sqlalchemy)
 * [stephencelis/SQLite.swift: A type-safe, Swift-language layer over SQLite3.](https://github.com/stephencelis/SQLite.swift)
+* [diesel-rs/diesel: A safe, extensible ORM and Query Builder for Rust](https://github.com/diesel-rs/diesel)
 
 ## internals
 
@@ -87,3 +90,4 @@
 * [dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [asg017/sqlite-ecosystem: An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!](https://github.com/asg017/sqlite-ecosystem)
 * [dpapathanasiou/simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
+* [torymur/sqlite-repr: Visual representation of on-disk database file format used by all releases of SQLite since version 3.0.0.](https://github.com/torymur/sqlite-repr)
