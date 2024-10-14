@@ -79,6 +79,7 @@
 * [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
 * [SQLite in the browser with WASM/JS | Hacker News](https://news.ycombinator.com/item?id=33374402)
 * [SQLite: How it works, by Richard Hipp - YouTube](https://www.youtube.com/watch?v=ZSKLA81tBis)
+* [SQLite & Database Tooling](https://blog.textile.io/sqlite-and-database-tooling)
 
 ## other
 
