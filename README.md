@@ -47,6 +47,7 @@
 * [beekeeper-studio/beekeeper-studio: Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.](https://github.com/beekeeper-studio/beekeeper-studio)
 * [coleifer/sqlite-web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 * [outerbase/studio: A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.](https://github.com/outerbase/studio)
+* [oliverjessner/sqlite-hub: ⚡️ A cyberpunk inspired management app for sqlite](https://github.com/oliverjessner/sqlite-hub)
 
 ## encryption and decryption
 
