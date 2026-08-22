@@ -97,6 +97,7 @@
 * [aergoio/sqlite-stored-procedures: Stored Procedures for SQLite](https://github.com/aergoio/sqlite-stored-procedures)
 * [simonw/datasette: An open source multi-tool for exploring and publishing data](https://github.com/simonw/datasette)
 * [simonw/sqlite-utils: Python CLI utility and library for manipulating SQLite databases](https://github.com/simonw/sqlite-utils)
+* [OrbitalKeyAi/sqliteproof: Structural validation localised to the table -- which tables survived, how many rows were lost, and what is safe to export](https://github.com/OrbitalKeyAi/sqliteproof)
 * [dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
 * [asg017/sqlite-ecosystem: An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!](https://github.com/asg017/sqlite-ecosystem)
 * [dpapathanasiou/simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
