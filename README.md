@@ -38,6 +38,7 @@
 * [asg017/sqlite-rembed: A SQLite extension for generating text embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...)](https://github.com/asg017/sqlite-rembed)
 * [phiresky/sqlite-zstd: Transparent dictionary-based row-level compression for SQLite](https://github.com/phiresky/sqlite-zstd)
 * [asg017/sqlite-loadable-rs: A framework for writing fast and performant SQLite extensions in Rust](https://github.com/asg017/sqlite-loadable-rs)
+* [arbazsiddiqui/sqlite-sparse: Semantic search in one SQLite file. No model, no server at query time.](https://github.com/arbazsiddiqui/sqlite-sparse)
 
 ## GUI
 
