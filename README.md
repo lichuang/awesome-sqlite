@@ -89,6 +89,7 @@
 * [How bloom filters made SQLite 10x faster - blag](https://avi.im/blag/2024/sqlite-past-present-future/?continueFlag=86f3716db9eaf357cfaed703388fd4ff)
 * [In search of a faster SQLite - blag](https://avi.im/blag/2024/faster-sqlite/)
 * [SQL Statement Logging for Making SQLite Truly Lite](https://www.vldb.org/pvldb/vol11/p513-park.pdf)
+* [Point-in-time restore for thousands of SQLite databases, for $0.0034 a tenant](https://dev.to/zabbie82/point-in-time-restore-for-thousands-of-sqlite-databases-for-00034-a-tenant-1645)
 
 ## other
 
