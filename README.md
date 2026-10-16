@@ -49,6 +49,7 @@
 * [outerbase/studio: A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.](https://github.com/outerbase/studio)
 * [oliverjessner/sqlite-hub: ⚡️ A cyberpunk inspired management app for sqlite](https://github.com/oliverjessner/sqlite-hub)
 * [achi777/db-tool: DBTool - free open-source desktop client for SQLite, PostgreSQL, MySQL, MariaDB, Oracle and SQL Server. Visual query builder, schema designer, editable grid. Linux, macOS, Windows.](https://github.com/achi777/db-tool)
+* [NeoPanic/Glim: macOS file viewer with read-only SQLite table/schema browsing alongside Markdown, PDFs, images, JSON and CSV.](https://github.com/NeoPanic/Glim)
 
 ## encryption and decryption
 
