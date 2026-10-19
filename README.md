@@ -66,6 +66,7 @@
 * [sqlalchemy/sqlalchemy: The Database Toolkit for Python](https://github.com/sqlalchemy/sqlalchemy)
 * [stephencelis/SQLite.swift: A type-safe, Swift-language layer over SQLite3.](https://github.com/stephencelis/SQLite.swift)
 * [diesel-rs/diesel: A safe, extensible ORM and Query Builder for Rust](https://github.com/diesel-rs/diesel)
+* [semics-tech/mongolite: MongoDB-style API (queries, updates, aggregation, change streams) on a SQLite file. Node, browser (sql.js) and Cloudflare Durable Objects.](https://github.com/semics-tech/mongolite)
 
 ## internals
 
