@@ -102,3 +102,4 @@
 * [asg017/sqlite-ecosystem: An overview of all my SQLite extensions, and a roadmap for future extensions and tooling!](https://github.com/asg017/sqlite-ecosystem)
 * [dpapathanasiou/simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [torymur/sqlite-repr: Visual representation of on-disk database file format used by all releases of SQLite since version 3.0.0.](https://github.com/torymur/sqlite-repr)
+* [tonydzi/sqlite-graph-memory: Graph RAG memory for coding agents in a single SQLite file, with vector search, a wikilink graph table and an MCP server (MIT)](https://github.com/tonydzi/sqlite-graph-memory)
