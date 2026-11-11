@@ -60,6 +60,7 @@
 
 ## wrapper/ORM
 
+* [Kova: A macro-free PostgreSQL and SQLite ORM for Rust with native binary JSONB and FTS5](https://github.com/edvong/kova)
 * [SqliteModernCpp/sqlite\_modern\_cpp: The C++14 wrapper around sqlite library](https://github.com/SqliteModernCpp/sqlite_modern_cpp)
 * [rogerbinns/apsw: Another Python SQLite wrapper](https://github.com/rogerbinns/apsw)
 * [fnc12/sqlite\_orm: ❤️ SQLite ORM light header only library for modern C++](https://github.com/fnc12/sqlite_orm)
