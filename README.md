@@ -106,3 +106,4 @@
 * [torymur/sqlite-repr: Visual representation of on-disk database file format used by all releases of SQLite since version 3.0.0.](https://github.com/torymur/sqlite-repr)
 * [huynhtanan/amazon-bestsellers-tracker: Python tracker that snapshots Amazon Best Sellers across 17 country stores into SQLite, with example SQL diff queries for rank jumps and new entries.](https://github.com/huynhtanan/amazon-bestsellers-tracker)
 * [huynhtanan/walmart-deals-tracker: Python tracker that watches Walmart Rollback-only deals and stores daily snapshots in SQLite, with SQL queries for price drops and first-party vs marketplace filtering.](https://github.com/huynhtanan/walmart-deals-tracker)
+* [Piergiuseppe/tinyjobs: Background jobs and cron for Python with a SQLite file as the queue, no broker or daemon. Jobs are claimed in one UPDATE ... RETURNING inside BEGIN IMMEDIATE under WAL.](https://github.com/Piergiuseppe/tinyjobs)
