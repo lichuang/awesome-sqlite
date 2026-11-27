@@ -91,6 +91,7 @@
 * [In search of a faster SQLite - blag](https://avi.im/blag/2024/faster-sqlite/)
 * [SQL Statement Logging for Making SQLite Truly Lite](https://www.vldb.org/pvldb/vol11/p513-park.pdf)
 * [Point-in-time restore for thousands of SQLite databases, for $0.0034 a tenant](https://dev.to/zabbie82/point-in-time-restore-for-thousands-of-sqlite-databases-for-00034-a-tenant-1645)
+* [SQLite vs. PostgreSQL: when a single file is the right database](https://www.grep.tips/articles/sqlite-vs-postgresql) - When SQLite's in-process file database is the right default, and when you actually need a network server like PostgreSQL.
 
 ## other
 
